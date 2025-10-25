@@ -1,0 +1,10 @@
+D:\DoAn TinHoc\QuanLyKhoLinhKien\QuanLyKhoLinhKien\obj\Debug\QuanLyKhoLinhKien.csproj.AssemblyReference.cache
+D:\DoAn TinHoc\QuanLyKhoLinhKien\QuanLyKhoLinhKien\obj\Debug\QuanLyKhoLinhKien.Properties.Resources.resources
+D:\DoAn TinHoc\QuanLyKhoLinhKien\QuanLyKhoLinhKien\obj\Debug\QuanLyKhoLinhKien.csproj.GenerateResource.cache
+D:\DoAn TinHoc\QuanLyKhoLinhKien\QuanLyKhoLinhKien\obj\Debug\QuanLyKhoLinhKien.csproj.CoreCompileInputs.cache
+D:\DoAn TinHoc\QuanLyKhoLinhKien\QuanLyKhoLinhKien\bin\Debug\QuanLyKhoLinhKien.exe.config
+D:\DoAn TinHoc\QuanLyKhoLinhKien\QuanLyKhoLinhKien\bin\Debug\QuanLyKhoLinhKien.exe
+D:\DoAn TinHoc\QuanLyKhoLinhKien\QuanLyKhoLinhKien\bin\Debug\QuanLyKhoLinhKien.pdb
+D:\DoAn TinHoc\QuanLyKhoLinhKien\QuanLyKhoLinhKien\obj\Debug\QuanLyKhoLinhKien.Form1.resources
+D:\DoAn TinHoc\QuanLyKhoLinhKien\QuanLyKhoLinhKien\obj\Debug\QuanLyKhoLinhKien.exe
+D:\DoAn TinHoc\QuanLyKhoLinhKien\QuanLyKhoLinhKien\obj\Debug\QuanLyKhoLinhKien.pdb
